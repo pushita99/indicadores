@@ -1,0 +1,5 @@
+@import "./base.css";
+@import url("../../node_modules/primevue/resources/themes/lara-light-blue/theme.css");
+@import url("../../node_modules/primevue/resources/primevue.min.css");
+
+@import "./style.min.css";
