@@ -20,7 +20,7 @@ export const useAuthStore = defineStore("user", () => {
       router.push("/");
       return true;
     } catch (e) {
-      console.log(e);
+      //console.log(e);
       return false;
     }
   };
